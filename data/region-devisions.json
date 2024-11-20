@@ -610,129 +610,78 @@
     {
       "id": "DIV_060",
       "name": {
-        "ar": "كنتيرة",
-        "en": "Kenitra",
-        "es": "Kenitra",
-        "fr": "Kénitra"
+        "ar": "الرباط",
+        "en": "Rabat",
+        "es": "Rabat",
+        "fr": "Rabat"
       },
-      "region_id": "REGION_04",
-      "type": "province"
-    },
-    {
-      "id": "DIV_061",
-      "name": { "ar": "سلا", "en": "Salé", "es": "Salé", "fr": "Salé" },
-      "region_id": "REGION_04",
-      "type": "province"
-    },
-    {
-      "id": "DIV_062",
-      "name": {
-        "ar": "القنيطرة",
-        "en": "Kénitra",
-        "es": "Kenitra",
-        "fr": "Kénitra"
-      },
-      "region_id": "REGION_04",
-      "type": "province"
-    },
-    {
-      "id": "DIV_063",
-      "name": {
-        "ar": "بني ملال",
-        "en": "Beni Mellal",
-        "es": "Beni Melal",
-        "fr": "Beni Mellal"
-      },
-      "region_id": "REGION_05",
-      "type": "province"
-    },
-    {
-      "id": "DIV_064",
-      "name": { "ar": "الرباط", "en": "Rabat", "es": "Rabat", "fr": "Rabat" },
       "region_id": "REGION_04",
       "type": "prefecture"
     },
     {
-      "id": "DIV_065",
+      "id": "DIV_061", 
       "name": {
-        "ar": "خميس زمامرة",
-        "en": "Khemisset",
-        "es": "Khemisset",
-        "fr": "Khemisset"
+        "ar": "سلا",
+        "en": "Salé",
+        "es": "Salé",
+        "fr": "Salé"
+      },
+      "region_id": "REGION_04",
+      "type": "prefecture"
+    },
+    {
+      "id": "DIV_062",
+      "name": {
+        "ar": "الصخيرات تمارة",
+        "en": "Skhirate-Témara",
+        "es": "Skhirate-Témara", 
+        "fr": "Skhirate-Témara"
+      },
+      "region_id": "REGION_04",
+      "type": "prefecture"
+    },
+    {
+      "id": "DIV_063",
+      "name": {
+        "ar": "الخميسات",
+        "en": "Khémisset",
+        "es": "Khémisset",
+        "fr": "Khémisset"
+      },
+      "region_id": "REGION_04", 
+      "type": "province"
+    },
+    {
+      "id": "DIV_064",
+      "name": {
+        "ar": "القنيطرة",
+        "en": "Kénitra",
+        "es": "Kénitra",
+        "fr": "Kénitra"
       },
       "region_id": "REGION_04",
       "type": "province"
     },
     {
-      "id": "DIV_067",
-      "name": { "ar": "سطات", "en": "Settat", "es": "Settat", "fr": "Settat" },
-      "region_id": "REGION_06",
+      "id": "DIV_065",
+      "name": {
+        "ar": "سيدي قاسم",
+        "en": "Sidi-Kacem",
+        "es": "Sidi-Kacem",
+        "fr": "Sidi-Kacem"
+      },
+      "region_id": "REGION_04",
       "type": "province"
     },
     {
-      "id": "DIV_069",
+      "id": "DIV_066",
       "name": {
-        "ar": "الجديدة",
-        "en": "El Jadida",
-        "es": "El Jadida",
-        "fr": "El Jadida"
+        "ar": "سيدي سليمان",
+        "en": "Sidi-Slimane", 
+        "es": "Sidi-Slimane",
+        "fr": "Sidi-Slimane"
       },
-      "region_id": "REGION_06",
-      "type": "province"
-    },
-    {
-      "id": "DIV_070",
-      "name": {
-        "ar": "مديونة",
-        "en": "Mediouna",
-        "es": "Mediouna",
-        "fr": "Mediouna"
-      },
-      "region_id": "REGION_06",
-      "type": "province"
-    },
-    {
-      "id": "DIV_071",
-      "name": {
-        "ar": "النواصر",
-        "en": "Nouaceur",
-        "es": "Nouaceur",
-        "fr": "Nouaceur"
-      },
-      "region_id": "REGION_06",
-      "type": "province"
-    },
-    {
-      "id": "DIV_072",
-      "name": {
-        "ar": "بنسليمان",
-        "en": "Berrechid",
-        "es": "Berrechid",
-        "fr": "Berrechid"
-      },
-      "region_id": "REGION_06",
-      "type": "province"
-    },
-    {
-      "id": "DIV_073",
-      "name": {
-        "ar": "خريبكة",
-        "en": "Khouribga",
-        "es": "Khouribga",
-        "fr": "Khouribga"
-      },
-      "region_id": "REGION_05",
-      "type": "province"
-    },
-    {
-      "id": "DIV_075",
-      "name": {
-        "ar": "خنيفرة",
-        "en": "Khénifra",
-        "es": "Khénifra",
-        "fr": "Khénifra"
-      },
-      "region_id": "REGION_05",
+      "region_id": "REGION_04",
       "type": "province"
     }
   ]
