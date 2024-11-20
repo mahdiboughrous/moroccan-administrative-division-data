@@ -135,7 +135,7 @@
     {
       "id": "DIV_013",
       "name": {
-        "ar": " مراكش",
+        "ar": "مراكش",
         "en": "Marrakech",
         "es": "Marrakech",
         "fr": "Marrakech"
@@ -145,34 +145,6 @@
     },
     {
       "id": "DIV_014",
-      "name": { "ar": " آسفي", "en": "Safi", "es": "Safí", "fr": "Safi" },
-      "region_id": "REGION_07",
-      "type": "province"
-    },
-    {
-      "id": "DIV_015",
-      "name": {
-        "ar": "قلعة السراغنة",
-        "en": "El Kelaa des Sraghna",
-        "es": "El Kelaa de Sraghna",
-        "fr": "El Kelaa des Sraghna"
-      },
-      "region_id": "REGION_07",
-      "type": "province"
-    },
-    {
-      "id": "DIV_016",
-      "name": {
-        "ar": "الرحامنة",
-        "en": "Al Haouz",
-        "es": "Al Haouz",
-        "fr": "Al Haouz"
-      },
-      "region_id": "REGION_07",
-      "type": "province"
-    },
-    {
-      "id": "DIV_017",
       "name": {
         "ar": "شيشاوة",
         "en": "Chichaoua",
@@ -183,12 +155,45 @@
       "type": "province"
     },
     {
+      "id": "DIV_015",
+      "name": {
+        "ar": "الحوز",
+        "en": "Al Haouz",
+        "es": "Al Haouz",
+        "fr": "Al Haouz"
+      },
+      "region_id": "REGION_07",
+      "type": "province"
+    },
+    {
+      "id": "DIV_016",
+      "name": {
+        "ar": "قلعة السراغنة",
+        "en": "El Kelaa des Sraghna",
+        "es": "El Kelaa des Sraghna",
+        "fr": "El Kelâa des Sraghna"
+      },
+      "region_id": "REGION_07",
+      "type": "province"
+    },
+    {
+      "id": "DIV_017",
+      "name": {
+        "ar": "الصويرة",
+        "en": "Essaouira",
+        "es": "Essaouira",
+        "fr": "Essaouira"
+      },
+      "region_id": "REGION_07",
+      "type": "province"
+    },
+    {
       "id": "DIV_018",
       "name": {
-        "ar": "أوريكا",
-        "en": "Ouarzazate",
-        "es": "Ouarzazate",
-        "fr": "Ouarzazate"
+        "ar": "الرحامنة",
+        "en": "Rehamna",
+        "es": "Rehamna",
+        "fr": "Rehamna"
       },
       "region_id": "REGION_07",
       "type": "province"
@@ -196,10 +201,10 @@
     {
       "id": "DIV_019",
       "name": {
-        "ar": "إقليم تارودانت",
-        "en": "Taroudant",
-        "es": "Taroudant",
-        "fr": "Taroudant"
+        "ar": "آسفي",
+        "en": "Safi",
+        "es": "Safi",
+        "fr": "Safi"
       },
       "region_id": "REGION_07",
       "type": "province"
@@ -207,21 +212,10 @@
     {
       "id": "DIV_020",
       "name": {
-        "ar": "أولاد برحيل",
-        "en": "Ouled Berhil",
-        "es": "Ouled Berhil",
-        "fr": "Ouled Berhil"
-      },
-      "region_id": "REGION_07",
-      "type": "province"
-    },
-    {
-      "id": "DIV_021",
-      "name": {
-        "ar": "رأس الماء",
-        "en": "Essaouira",
-        "es": "Essaouira",
-        "fr": "Essaouira"
+        "ar": "اليوسفية",
+        "en": "Youssoufia",
+        "es": "Youssoufia",
+        "fr": "Youssoufia"
       },
       "region_id": "REGION_07",
       "type": "province"
