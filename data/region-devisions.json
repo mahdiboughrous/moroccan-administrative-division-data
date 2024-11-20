@@ -398,17 +398,44 @@
     },
     {
       "id": "DIV_039",
-      "name": { "ar": "أصيلة", "en": "Asilah", "es": "Asilah", "fr": "Asilah" },
+      "name": {
+        "ar": "طنجة أصيلة",
+        "en": "Tanger-Asilah",
+        "es": "Tánger-Asilah", 
+        "fr": "Tanger-Asilah"
+      },
       "region_id": "REGION_01",
-      "type": "province"
+      "type": "prefecture"
     },
     {
       "id": "DIV_040",
       "name": {
-        "ar": "شفشاون",
-        "en": "Chefchaouen",
-        "es": "Chauen",
-        "fr": "Chefchaouen"
+        "ar": "المضيق الفنيدق",
+        "en": "M'diq-Fnideq",
+        "es": "M'diq-Fnideq",
+        "fr": "M'diq-Fnideq"
+      },
+      "region_id": "REGION_01", 
+      "type": "prefecture"
+    },
+    {
+      "id": "DIV_041",
+      "name": {
+        "ar": "الفحص أنجرة",
+        "en": "Fahs-Anjra",
+        "es": "Fahs-Anjra",
+        "fr": "Fahs-Anjra"
+      },
+      "region_id": "REGION_01",
+      "type": "province"
+    },
+    {
+      "id": "DIV_042",
+      "name": {
+        "ar": "وزان",
+        "en": "Ouezzane",
+        "es": "Ouezzane",
+        "fr": "Ouezzane"
       },
       "region_id": "REGION_01",
       "type": "province"
