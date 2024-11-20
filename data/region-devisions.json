@@ -222,36 +222,30 @@
     },
     {
       "id": "DIV_022",
-      "name": { "ar": "تزنيت", "en": "Tiznit", "es": "Tiznit", "fr": "Tiznit" },
-      "region_id": "REGION_09",
-      "type": "province"
-    },
-    {
-      "id": "DIV_023",
       "name": {
         "ar": "أكادير إداوتنان",
         "en": "Agadir Ida-Outanane",
         "es": "Agadir Ida-Outanane",
         "fr": "Agadir Ida-Outanane"
       },
-      "region_id": "REGION_09",
-      "type": "province"
+      "region_id": "REGION_09", 
+      "type": "prefecture"
     },
     {
-      "id": "DIV_024",
+      "id": "DIV_023",
       "name": {
-        "ar": "إنزكان",
+        "ar": "إنزكان آيت ملول",
         "en": "Inezgane-Aït Melloul",
         "es": "Inezgane-Aït Melloul",
         "fr": "Inezgane-Aït Melloul"
       },
       "region_id": "REGION_09",
-      "type": "province"
+      "type": "prefecture"
     },
     {
-      "id": "DIV_025",
+      "id": "DIV_024",
       "name": {
-        "ar": "شطر",
+        "ar": "اشتوكة آيت باها",
         "en": "Chtouka Ait Baha",
         "es": "Chtouka Ait Baha",
         "fr": "Chtouka Ait Baha"
@@ -260,36 +254,35 @@
       "type": "province"
     },
     {
+      "id": "DIV_025",
+      "name": { 
+        "ar": "تزنيت",
+        "en": "Tiznit",
+        "es": "Tiznit",
+        "fr": "Tiznit"
+      },
+      "region_id": "REGION_09",
+      "type": "province"
+    },
+    {
       "id": "DIV_026",
       "name": {
         "ar": "تارودانت",
-        "en": "Taroudant",
-        "es": "Taroudant",
-        "fr": "Taroudant"
+        "en": "Taroudannt",
+        "es": "Taroudannt",
+        "fr": "Taroudannt"
       },
       "region_id": "REGION_09",
       "type": "province"
     },
     {
       "id": "DIV_027",
-      "name": { "ar": "الطاطا", "en": "Tata", "es": "Tata", "fr": "Tata" },
-      "region_id": "REGION_09",
-      "type": "province"
-    },
-    {
-      "id": "DIV_028",
       "name": {
-        "ar": "أولاد تايمة",
-        "en": "Ouled Teima",
-        "es": "Ouled Teima",
-        "fr": "Ouled Teima"
+        "ar": "طاطا",
+        "en": "Tata",
+        "es": "Tata",
+        "fr": "Tata"
       },
-      "region_id": "REGION_09",
-      "type": "province"
-    },
-    {
-      "id": "DIV_029",
-      "name": { "ar": "تزنيت", "en": "Tiznit", "es": "Tiznit", "fr": "Tiznit" },
       "region_id": "REGION_09",
       "type": "province"
     },
