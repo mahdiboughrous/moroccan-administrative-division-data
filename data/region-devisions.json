@@ -289,21 +289,21 @@
     {
       "id": "DIV_030",
       "name": {
-        "ar": "قلعة مكونة",
+        "ar": "كلميم",
         "en": "Guelmim",
-        "es": "Guelmim",
+        "es": "Guelmim", 
         "fr": "Guelmim"
       },
       "region_id": "REGION_10",
       "type": "province"
     },
     {
-      "id": "DIV_031",
+      "id": "DIV_031", 
       "name": {
-        "ar": "واد نون",
-        "en": "Oued Noun",
-        "es": "Río Noun",
-        "fr": "Oued Noun"
+        "ar": "طانطان",
+        "en": "Tan-Tan",
+        "es": "Tan-Tan",
+        "fr": "Tan-Tan"
       },
       "region_id": "REGION_10",
       "type": "province"
@@ -311,17 +311,22 @@
     {
       "id": "DIV_032",
       "name": {
+        "ar": "أسا الزاك",
+        "en": "Assa-Zag",
+        "es": "Assa-Zag",
+        "fr": "Assa-Zag"
+      },
+      "region_id": "REGION_10", 
+      "type": "province"
+    },
+    {
+      "id": "DIV_033",
+      "name": {
         "ar": "سيدي إفني",
         "en": "Sidi Ifni",
         "es": "Sidi Ifni",
         "fr": "Sidi Ifni"
       },
-      "region_id": "REGION_10",
-      "type": "province"
-    },
-    {
-      "id": "DIV_033",
-      "name": { "ar": "طاطا", "en": "Tata", "es": "Tata", "fr": "Tata" },
       "region_id": "REGION_10",
       "type": "province"
     },
