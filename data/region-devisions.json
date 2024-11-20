@@ -451,42 +451,47 @@
       "name": {
         "ar": "مكناس",
         "en": "Meknes",
-        "es": "Mequinez",
+        "es": "Mequinez", 
         "fr": "Meknès"
       },
       "region_id": "REGION_03",
-      "type": "province"
+      "type": "prefecture"
     },
     {
       "id": "DIV_043",
       "name": {
-        "ar": "بولمان",
-        "en": "Boulemane",
-        "es": "Boulemane",
-        "fr": "Boulemane"
+        "ar": "إفران",
+        "en": "Ifrane",
+        "es": "Ifrane",
+        "fr": "Ifrane"
       },
-      "region_id": "REGION_03",
+      "region_id": "REGION_03", 
       "type": "province"
     },
     {
       "id": "DIV_044",
       "name": {
-        "ar": "مولاي يعقوب",
-        "en": "Moulay Yacoub",
-        "es": "Moulay Yacoub",
-        "fr": "Moulay Yacoub"
+        "ar": "تازة",
+        "en": "Taza",
+        "es": "Taza",
+        "fr": "Taza"
       },
       "region_id": "REGION_03",
       "type": "province"
     },
     {
       "id": "DIV_045",
-      "name": { "ar": "صفرو", "en": "Sefrou", "es": "Sefrou", "fr": "Sefrou" },
+      "name": { 
+        "ar": "صفرو",
+        "en": "Sefrou",
+        "es": "Sefrou",
+        "fr": "Sefrou"
+      },
       "region_id": "REGION_03",
       "type": "province"
     },
     {
-      "id": "DIV_046",
+      "id": "DIV_046", 
       "name": {
         "ar": "تاونات",
         "en": "Taounate",
@@ -499,18 +504,40 @@
     {
       "id": "DIV_047",
       "name": {
-        "ar": "إقليم الحاجب",
-        "en": "Al Hajeb",
-        "es": "Al Hajeb",
-        "fr": "Al Hajeb"
+        "ar": "الحاجب",
+        "en": "El Hajeb",
+        "es": "El Hajeb", 
+        "fr": "El Hajeb"
       },
       "region_id": "REGION_03",
       "type": "province"
     },
     {
       "id": "DIV_048",
-      "name": { "ar": "جرسيف", "en": "Jerada", "es": "Jerada", "fr": "Jerada" },
-      "region_id": "REGION_02",
+      "name": {
+        "ar": "بولمان",
+        "en": "Boulemane",
+        "es": "Boulemane",
+        "fr": "Boulemane" 
+      },
+      "region_id": "REGION_03",
+      "type": "province"
+    },
+    {
+      "id": "DIV_049",
+      "name": {
+        "ar": "مولاي يعقوب",
+        "en": "Moulay Yacoub",
+        "es": "Moulay Yacoub",
+        "fr": "Moulay Yacoub"
+      },
+      "region_id": "REGION_03", 
+      "type": "province"
+    },
+    {
+      "id": "DIV_048",
+      "name": { "ar": "فكيك", "en": "Figuig", "es": "Figuig", "fr": "Figuig" },
+      "region_id": "REGION_02", 
       "type": "province"
     },
     {
@@ -523,7 +550,7 @@
       "id": "DIV_050",
       "name": {
         "ar": "بركان",
-        "en": "Berkane",
+        "en": "Berkane", 
         "es": "Berkane",
         "fr": "Berkane"
       },
@@ -533,10 +560,10 @@
     {
       "id": "DIV_051",
       "name": {
-        "ar": "وزان",
-        "en": "Oujda-Angad",
-        "es": "Oujda-Angad",
-        "fr": "Oujda-Angad"
+        "ar": "كرسيف",
+        "en": "Guercif",
+        "es": "Guercif", 
+        "fr": "Guercif"
       },
       "region_id": "REGION_02",
       "type": "province"
@@ -550,12 +577,12 @@
         "fr": "Oujda-Angad"
       },
       "region_id": "REGION_02",
-      "type": "province"
+      "type": "prefecture"
     },
     {
       "id": "DIV_053",
       "name": {
-        "ar": "تاورة",
+        "ar": "تاوريرت",
         "en": "Taourirt",
         "es": "Taourirt",
         "fr": "Taourirt"
@@ -565,63 +592,19 @@
     },
     {
       "id": "DIV_054",
-      "name": { "ar": "جرسيف", "en": "Jerada", "es": "Jerada", "fr": "Jerada" },
+      "name": { "ar": "جرادة", "en": "Jerada", "es": "Jerada", "fr": "Jerada" },
       "region_id": "REGION_02",
       "type": "province"
     },
     {
       "id": "DIV_055",
       "name": {
-        "ar": " الدريوش",
+        "ar": "الدريوش",
         "en": "Driouch",
         "es": "Driouch",
         "fr": "Driouch"
       },
       "region_id": "REGION_02",
-      "type": "province"
-    },
-    {
-      "id": "DIV_056",
-      "name": {
-        "ar": "الحسيمة",
-        "en": "Al Hoceima",
-        "es": "Alhucemas",
-        "fr": "Al Hoceima"
-      },
-      "region_id": "REGION_01",
-      "type": "province"
-    },
-    {
-      "id": "DIV_057",
-      "name": {
-        "ar": "مليلية",
-        "en": "Melilla",
-        "es": "Melilla",
-        "fr": "Melilla"
-      },
-      "region_id": "REGION_01",
-      "type": "province"
-    },
-    {
-      "id": "DIV_058",
-      "name": {
-        "ar": "تطوان",
-        "en": "Tetouan",
-        "es": "Tetuán",
-        "fr": "Tétouan"
-      },
-      "region_id": "REGION_01",
-      "type": "province"
-    },
-    {
-      "id": "DIV_059",
-      "name": {
-        "ar": "العرائش",
-        "en": "Larache",
-        "es": "Larache",
-        "fr": "Larache"
-      },
-      "region_id": "REGION_01",
       "type": "province"
     },
     {
