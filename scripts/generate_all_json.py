@@ -1,15 +1,26 @@
 import json
-import os
 
-def generate_tree(regions_file, divisions_file, output_file):
+def generate_all_json(regions_file, divisions_file, communes_file, output_file):
     # Load regions.json
     with open(regions_file, 'r', encoding='utf-8') as f:
         regions_data = json.load(f)
-    
+
     # Load region-divisions.json
     with open(divisions_file, 'r', encoding='utf-8') as f:
         divisions_data = json.load(f)
-    
+
+    # Load communes.json
+    with open(communes_file, 'r', encoding='utf-8') as f:
+        communes_data = json.load(f)
+
+    # Create a mapping of divisions and their communes
+    division_commune_map = {}
+    for commune in communes_data['communes']:
+        division_id = commune['region_division_id']
+        if division_id not in division_commune_map:
+            division_commune_map[division_id] = []
+        division_commune_map[division_id].append(commune)
+
     # Create a mapping of regions and their divisions
     region_tree = []
     region_division_map = {}
@@ -17,6 +28,11 @@ def generate_tree(regions_file, divisions_file, output_file):
     # Group divisions by region_id
     for division in divisions_data['region_divisions']:
         region_id = division['region_id']
+        division_id = division['id']
+        
+        # Attach communes to the division
+        division['communes'] = division_commune_map.get(division_id, [])
+        
         if region_id not in region_division_map:
             region_division_map[region_id] = []
         region_division_map[region_id].append(division)
@@ -37,7 +53,8 @@ def generate_tree(regions_file, divisions_file, output_file):
 # Input and output file paths
 input_regions_file = './data/regions.json'
 input_divisions_file = './data/region-divisions.json'
+input_communes_file = './data/communes.json'
 output_all_file = './data/all.json'
 
-# Generate the hierarchical tree
-generate_tree(input_regions_file, input_divisions_file, output_all_file)
+# Generate the hierarchical JSON
+generate_all_json(input_regions_file, input_divisions_file, input_communes_file, output_all_file)

@@ -18,7 +18,8 @@
                         "fr": "Azilal"
                     },
                     "region_id": "REGION_01",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_010",
@@ -29,7 +30,8 @@
                         "fr": "Béni Mellal"
                     },
                     "region_id": "REGION_01",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_022",
@@ -40,7 +42,8 @@
                         "fr": "Fquih Ben Salah"
                     },
                     "region_id": "REGION_01",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_029",
@@ -51,7 +54,8 @@
                         "fr": "Khouribga"
                     },
                     "region_id": "REGION_01",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_031",
@@ -62,7 +66,8 @@
                         "fr": "Khénifra"
                     },
                     "region_id": "REGION_01",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 }
             ]
         },
@@ -84,7 +89,8 @@
                         "fr": "Berrechid"
                     },
                     "region_id": "REGION_02",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_011",
@@ -95,7 +101,8 @@
                         "fr": "Casablanca"
                     },
                     "region_id": "REGION_02",
-                    "type": "prefecture"
+                    "type": "prefecture",
+                    "communes": []
                 },
                 {
                     "id": "DIV_016",
@@ -106,7 +113,8 @@
                         "fr": "El Jadida"
                     },
                     "region_id": "REGION_02",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_037",
@@ -117,7 +125,8 @@
                         "fr": "Mohammedia"
                     },
                     "region_id": "REGION_02",
-                    "type": "prefecture"
+                    "type": "prefecture",
+                    "communes": []
                 },
                 {
                     "id": "DIV_039",
@@ -128,7 +137,8 @@
                         "fr": "Médiouna"
                     },
                     "region_id": "REGION_02",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_041",
@@ -139,7 +149,8 @@
                         "fr": "Nouaceur"
                     },
                     "region_id": "REGION_02",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_050",
@@ -150,7 +161,8 @@
                         "fr": "Sidi Bennour"
                     },
                     "region_id": "REGION_02",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 }
             ]
         },
@@ -172,7 +184,8 @@
                         "fr": "Aousserd"
                     },
                     "region_id": "REGION_03",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_042",
@@ -183,7 +196,8 @@
                         "fr": "Oued Ed-Dahab"
                     },
                     "region_id": "REGION_03",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 }
             ]
         },
@@ -215,7 +229,8 @@
                         "fr": "Boulemane"
                     },
                     "region_id": "REGION_05",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_015",
@@ -226,7 +241,8 @@
                         "fr": "El Hajeb"
                     },
                     "region_id": "REGION_05",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_023",
@@ -237,7 +253,8 @@
                         "fr": "Fès"
                     },
                     "region_id": "REGION_05",
-                    "type": "prefecture"
+                    "type": "prefecture",
+                    "communes": []
                 },
                 {
                     "id": "DIV_026",
@@ -248,7 +265,8 @@
                         "fr": "Ifrane"
                     },
                     "region_id": "REGION_05",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_036",
@@ -259,7 +277,8 @@
                         "fr": "Meknès"
                     },
                     "region_id": "REGION_05",
-                    "type": "prefecture"
+                    "type": "prefecture",
+                    "communes": []
                 },
                 {
                     "id": "DIV_038",
@@ -270,7 +289,8 @@
                         "fr": "Moulay Yacoub"
                     },
                     "region_id": "REGION_05",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_049",
@@ -281,7 +301,8 @@
                         "fr": "Sefrou"
                     },
                     "region_id": "REGION_05",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_057",
@@ -292,7 +313,8 @@
                         "fr": "Taounate"
                     },
                     "region_id": "REGION_05",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_062",
@@ -303,7 +325,8 @@
                         "fr": "Taza"
                     },
                     "region_id": "REGION_05",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 }
             ]
         },
@@ -325,7 +348,8 @@
                         "fr": "Assa-Zag"
                     },
                     "region_id": "REGION_06",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_024",
@@ -336,7 +360,8 @@
                         "fr": "Guelmim"
                     },
                     "region_id": "REGION_06",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_051",
@@ -347,7 +372,8 @@
                         "fr": "Sidi Ifni"
                     },
                     "region_id": "REGION_06",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_055",
@@ -358,7 +384,8 @@
                         "fr": "Tan-Tan"
                     },
                     "region_id": "REGION_06",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 }
             ]
         },
@@ -380,7 +407,8 @@
                         "fr": "Boujdour"
                     },
                     "region_id": "REGION_07",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_018",
@@ -391,7 +419,8 @@
                         "fr": "Es-Semara"
                     },
                     "region_id": "REGION_07",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_033",
@@ -402,7 +431,8 @@
                         "fr": "Laâyoune"
                     },
                     "region_id": "REGION_07",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_059",
@@ -413,7 +443,8 @@
                         "fr": "Tarfaya"
                     },
                     "region_id": "REGION_07",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 }
             ]
         },
@@ -435,7 +466,8 @@
                         "fr": "Al Haouz"
                     },
                     "region_id": "REGION_08",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_012",
@@ -446,7 +478,8 @@
                         "fr": "Chichaoua"
                     },
                     "region_id": "REGION_08",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_017",
@@ -457,7 +490,8 @@
                         "fr": "El Kelâa des Sraghna"
                     },
                     "region_id": "REGION_08",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_019",
@@ -468,7 +502,8 @@
                         "fr": "Essaouira"
                     },
                     "region_id": "REGION_08",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_035",
@@ -479,7 +514,8 @@
                         "fr": "Marrakech"
                     },
                     "region_id": "REGION_08",
-                    "type": "prefecture"
+                    "type": "prefecture",
+                    "communes": []
                 },
                 {
                     "id": "DIV_046",
@@ -490,7 +526,8 @@
                         "fr": "Rehamna"
                     },
                     "region_id": "REGION_08",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_047",
@@ -501,7 +538,8 @@
                         "fr": "Safi"
                     },
                     "region_id": "REGION_08",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_064",
@@ -512,7 +550,8 @@
                         "fr": "Youssoufia"
                     },
                     "region_id": "REGION_08",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 }
             ]
         },
@@ -534,7 +573,8 @@
                         "fr": "Berkane"
                     },
                     "region_id": "REGION_09",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_014",
@@ -545,7 +585,8 @@
                         "fr": "Driouch"
                     },
                     "region_id": "REGION_09",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_021",
@@ -556,7 +597,8 @@
                         "fr": "Figuig"
                     },
                     "region_id": "REGION_09",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_025",
@@ -567,7 +609,8 @@
                         "fr": "Guercif"
                     },
                     "region_id": "REGION_09",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_028",
@@ -578,7 +621,8 @@
                         "fr": "Jerada"
                     },
                     "region_id": "REGION_09",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_040",
@@ -589,7 +633,8 @@
                         "fr": "Nador"
                     },
                     "region_id": "REGION_09",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_044",
@@ -600,7 +645,8 @@
                         "fr": "Oujda-Angad"
                     },
                     "region_id": "REGION_09",
-                    "type": "prefecture"
+                    "type": "prefecture",
+                    "communes": []
                 },
                 {
                     "id": "DIV_058",
@@ -611,7 +657,8 @@
                         "fr": "Taourirt"
                     },
                     "region_id": "REGION_09",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 }
             ]
         },
@@ -633,7 +680,8 @@
                         "fr": "Khémisset"
                     },
                     "region_id": "REGION_10",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_032",
@@ -644,7 +692,8 @@
                         "fr": "Kénitra"
                     },
                     "region_id": "REGION_10",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_045",
@@ -655,7 +704,8 @@
                         "fr": "Rabat"
                     },
                     "region_id": "REGION_10",
-                    "type": "prefecture"
+                    "type": "prefecture",
+                    "communes": []
                 },
                 {
                     "id": "DIV_048",
@@ -666,7 +716,8 @@
                         "fr": "Salé"
                     },
                     "region_id": "REGION_10",
-                    "type": "prefecture"
+                    "type": "prefecture",
+                    "communes": []
                 },
                 {
                     "id": "DIV_052",
@@ -677,7 +728,8 @@
                         "fr": "Sidi-Kacem"
                     },
                     "region_id": "REGION_10",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_053",
@@ -688,7 +740,8 @@
                         "fr": "Sidi-Slimane"
                     },
                     "region_id": "REGION_10",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_054",
@@ -699,7 +752,8 @@
                         "fr": "Skhirate-Témara"
                     },
                     "region_id": "REGION_10",
-                    "type": "prefecture"
+                    "type": "prefecture",
+                    "communes": []
                 }
             ]
         },
@@ -721,7 +775,119 @@
                         "fr": "Agadir Ida-Outanane"
                     },
                     "region_id": "REGION_11",
-                    "type": "prefecture"
+                    "type": "prefecture",
+                    "communes": [
+                        {
+                            "id": "COM_0001",
+                            "name": {
+                                "ar": "أكادير",
+                                "en": "Agadir",
+                                "es": "Agadir",
+                                "fr": "Agadir"
+                            },
+                            "region_division_id": "DIV_001",
+                            "type": "urbain"
+                        },
+                        {
+                            "id": "COM_0002",
+                            "name": {
+                                "ar": "أمسكرود",
+                                "en": "Amskroud",
+                                "es": "Amskroud",
+                                "fr": "Amskroud"
+                            },
+                            "region_division_id": "DIV_001",
+                            "type": "rurale"
+                        },
+                        {
+                            "id": "COM_0003",
+                            "name": {
+                                "ar": "أورير",
+                                "en": "Aourir",
+                                "es": "Aourir",
+                                "fr": "Aourir"
+                            },
+                            "region_division_id": "DIV_001",
+                            "type": "rurale"
+                        },
+                        {
+                            "id": "COM_0004",
+                            "name": {
+                                "ar": "أقصري",
+                                "en": "Aqesri",
+                                "es": "Aqesri",
+                                "fr": "Aqesri"
+                            },
+                            "region_division_id": "DIV_001",
+                            "type": "rurale"
+                        },
+                        {
+                            "id": "COM_0005",
+                            "name": {
+                                "ar": "أزيار",
+                                "en": "Aziar",
+                                "es": "Aziar",
+                                "fr": "Aziar"
+                            },
+                            "region_division_id": "DIV_001",
+                            "type": "rurale"
+                        },
+                        {
+                            "id": "COM_0006",
+                            "name": {
+                                "ar": "دراركة",
+                                "en": "Drargua",
+                                "es": "Drargua",
+                                "fr": "Drargua"
+                            },
+                            "region_division_id": "DIV_001",
+                            "type": "rurale"
+                        },
+                        {
+                            "id": "COM_0007",
+                            "name": {
+                                "ar": "إدمين",
+                                "en": "Idmine",
+                                "es": "Idmine",
+                                "fr": "Idmine"
+                            },
+                            "region_division_id": "DIV_001",
+                            "type": "rurale"
+                        },
+                        {
+                            "id": "COM_0008",
+                            "name": {
+                                "ar": "إمسوان",
+                                "en": "Imsouane",
+                                "es": "Imsouane",
+                                "fr": "Imsouane"
+                            },
+                            "region_division_id": "DIV_001",
+                            "type": "rurale"
+                        },
+                        {
+                            "id": "COM_0009",
+                            "name": {
+                                "ar": "تغازوت",
+                                "en": "Taghazout",
+                                "es": "Taghazout",
+                                "fr": "Taghazout"
+                            },
+                            "region_division_id": "DIV_001",
+                            "type": "rurale"
+                        },
+                        {
+                            "id": "COM_0010",
+                            "name": {
+                                "ar": "تامري",
+                                "en": "Tamri",
+                                "es": "Tamri",
+                                "fr": "Tamri"
+                            },
+                            "region_division_id": "DIV_001",
+                            "type": "rurale"
+                        }
+                    ]
                 },
                 {
                     "id": "DIV_013",
@@ -732,7 +898,8 @@
                         "fr": "Chtouka Ait Baha"
                     },
                     "region_id": "REGION_11",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_027",
@@ -743,7 +910,8 @@
                         "fr": "Inezgane-Aït Melloul"
                     },
                     "region_id": "REGION_11",
-                    "type": "prefecture"
+                    "type": "prefecture",
+                    "communes": []
                 },
                 {
                     "id": "DIV_060",
@@ -754,7 +922,8 @@
                         "fr": "Taroudannt"
                     },
                     "region_id": "REGION_11",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_061",
@@ -765,7 +934,8 @@
                         "fr": "Tata"
                     },
                     "region_id": "REGION_11",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_063",
@@ -776,7 +946,8 @@
                         "fr": "Tiznit"
                     },
                     "region_id": "REGION_11",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 }
             ]
         },
@@ -798,7 +969,8 @@
                         "fr": "Fahs-Anjra"
                     },
                     "region_id": "REGION_12",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_034",
@@ -809,7 +981,8 @@
                         "fr": "M'diq-Fnideq"
                     },
                     "region_id": "REGION_12",
-                    "type": "prefecture"
+                    "type": "prefecture",
+                    "communes": []
                 },
                 {
                     "id": "DIV_043",
@@ -820,7 +993,8 @@
                         "fr": "Ouezzane"
                     },
                     "region_id": "REGION_12",
-                    "type": "province"
+                    "type": "province",
+                    "communes": []
                 },
                 {
                     "id": "DIV_056",
@@ -831,7 +1005,8 @@
                         "fr": "Tanger-Asilah"
                     },
                     "region_id": "REGION_12",
-                    "type": "prefecture"
+                    "type": "prefecture",
+                    "communes": []
                 }
             ]
         }

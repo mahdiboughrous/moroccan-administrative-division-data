@@ -1,0 +1,114 @@
+{
+    "communes": [
+        {
+            "id": "COM_0001",
+            "name": {
+                "ar": "أكادير",
+                "en": "Agadir",
+                "es": "Agadir",
+                "fr": "Agadir"
+            },
+            "region_division_id": "DIV_001",
+            "type": "urbain"
+        },
+        {
+            "id": "COM_0002",
+            "name": {
+                "ar": "أمسكرود",
+                "en": "Amskroud",
+                "es": "Amskroud",
+                "fr": "Amskroud"
+            },
+            "region_division_id": "DIV_001",
+            "type": "rurale"
+        },
+        {
+            "id": "COM_0003",
+            "name": {
+                "ar": "أورير",
+                "en": "Aourir",
+                "es": "Aourir",
+                "fr": "Aourir"
+            },
+            "region_division_id": "DIV_001",
+            "type": "rurale"
+        },
+        {
+            "id": "COM_0004",
+            "name": {
+                "ar": "أقصري",
+                "en": "Aqesri",
+                "es": "Aqesri",
+                "fr": "Aqesri"
+            },
+            "region_division_id": "DIV_001",
+            "type": "rurale"
+        },
+        {
+            "id": "COM_0005",
+            "name": {
+                "ar": "أزيار",
+                "en": "Aziar",
+                "es": "Aziar",
+                "fr": "Aziar"
+            },
+            "region_division_id": "DIV_001",
+            "type": "rurale"
+        },
+        {
+            "id": "COM_0006",
+            "name": {
+                "ar": "دراركة",
+                "en": "Drargua",
+                "es": "Drargua",
+                "fr": "Drargua"
+            },
+            "region_division_id": "DIV_001",
+            "type": "rurale"
+        },
+        {
+            "id": "COM_0007",
+            "name": {
+                "ar": "إدمين",
+                "en": "Idmine",
+                "es": "Idmine",
+                "fr": "Idmine"
+            },
+            "region_division_id": "DIV_001",
+            "type": "rurale"
+        },
+        {
+            "id": "COM_0008",
+            "name": {
+                "ar": "إمسوان",
+                "en": "Imsouane",
+                "es": "Imsouane",
+                "fr": "Imsouane"
+            },
+            "region_division_id": "DIV_001",
+            "type": "rurale"
+        },
+        {
+            "id": "COM_0009",
+            "name": {
+                "ar": "تغازوت",
+                "en": "Taghazout",
+                "es": "Taghazout",
+                "fr": "Taghazout"
+            },
+            "region_division_id": "DIV_001",
+            "type": "rurale"
+        },
+        {
+            "id": "COM_0010",
+            "name": {
+                "ar": "تامري",
+                "en": "Tamri",
+                "es": "Tamri",
+                "fr": "Tamri"
+            },
+            "region_division_id": "DIV_001",
+            "type": "rurale"
+        }
+    ]
+}
