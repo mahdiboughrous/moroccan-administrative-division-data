@@ -377,21 +377,21 @@
     {
       "id": "DIV_037",
       "name": {
-        "ar": " الداخلة",
-        "en": "Dakhla",
-        "es": "Dajla",
-        "fr": "Dakhla"
+        "ar": "واد الذهب",
+        "en": "Oued Ed-Dahab",
+        "es": "Río de Oro",
+        "fr": "Oued Ed-Dahab"
       },
       "region_id": "REGION_12",
-      "type": "prefecture"
+      "type": "province"
     },
     {
-      "id": "DIV_038",
+      "id": "DIV_038", 
       "name": {
-        "ar": "واد الذهب",
-        "en": "Oued Ed Dahab",
-        "es": "Río de Oro",
-        "fr": "Oued Ed Dahab"
+        "ar": "أوسرد",
+        "en": "Aousserd",
+        "es": "Auserd",
+        "fr": "Aousserd"
       },
       "region_id": "REGION_12",
       "type": "province"
