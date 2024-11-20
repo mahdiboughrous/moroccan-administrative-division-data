@@ -335,14 +335,14 @@
       "name": {
         "ar": "العيون",
         "en": "Laayoune",
-        "es": "El Aaiún",
+        "es": "El Aaiún", 
         "fr": "Laâyoune"
       },
       "region_id": "REGION_11",
-      "type": "prefecture"
+      "type": "province"
     },
     {
-      "id": "DIV_035",
+      "id": "DIV_035", 
       "name": {
         "ar": "بوجدور",
         "en": "Boujdour",
@@ -355,10 +355,21 @@
     {
       "id": "DIV_036",
       "name": {
-        "ar": "أسا الزاك",
-        "en": "Aousserd",
-        "es": "Auserd",
-        "fr": "Aousserd"
+        "ar": "طرفاية",
+        "en": "Tarfaya",
+        "es": "Tarfaya",
+        "fr": "Tarfaya"
+      },
+      "region_id": "REGION_11", 
+      "type": "province"
+    },
+    {
+      "id": "DIV_037",
+      "name": {
+        "ar": "السمارة",
+        "en": "Es-Semara",
+        "es": "Esmara",
+        "fr": "Es-Semara"
       },
       "region_id": "REGION_11",
       "type": "province"
