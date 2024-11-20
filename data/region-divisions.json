@@ -1,688 +1,708 @@
 {
-  "region_divisions": [
-    {
-      "id": "DIV_001",
-      "name": {
-        "ar": "الدار البيضاء",
-        "en": "Casablanca",
-        "es": "Casablanca",
-        "fr": "Casablanca"
-      },
-      "region_id": "REGION_06",
-      "type": "prefecture"
-    },
-    {
-      "id": "DIV_002",
-      "name": {
-        "ar": "المحمدية",
-        "en": "Mohammedia",
-        "es": "Mohammedia",
-        "fr": "Mohammedia"
-      },
-      "region_id": "REGION_06",
-      "type": "prefecture"
-    },
-    {
-      "id": "DIV_003",
-      "name": {
-        "ar": "الجديدة",
-        "en": "El Jadida",
-        "es": "El Jadida",
-        "fr": "El Jadida"
-      },
-      "region_id": "REGION_06",
-      "type": "province"
-    },
-    {
-      "id": "DIV_004",
-      "name": {
-        "ar": "مديونة",
-        "en": "Médiouna",
-        "es": "Mediouna",
-        "fr": "Médiouna"
-      },
-      "region_id": "REGION_06",
-      "type": "province"
-    },
-    {
-      "id": "DIV_005",
-      "name": {
-        "ar": "النواصر",
-        "en": "Nouaceur",
-        "es": "Nuacer",
-        "fr": "Nouaceur"
-      },
-      "region_id": "REGION_06",
-      "type": "province"
-    },
-    {
-      "id": "DIV_006",
-      "name": {
-        "ar": "برشيد",
-        "en": "Berrechid",
-        "es": "Berrechid",
-        "fr": "Berrechid"
-      },
-      "region_id": "REGION_06",
-      "type": "province"
-    },
-    {
-        "id": "DIV_007",
-        "name": {
-            "ar": "سيدي بنور",
-            "en": "Sidi Bennour",
-            "es": "Sidi Bennour",
-            "fr": "Sidi Bennour"
+    "region_divisions": [
+        {
+            "id": "DIV_001",
+            "name": {
+                "ar": "أكادير إداوتنان",
+                "en": "Agadir Ida-Outanane",
+                "es": "Agadir Ida-Outanane",
+                "fr": "Agadir Ida-Outanane"
+            },
+            "region_id": "REGION_11",
+            "type": "prefecture"
         },
-        "region_id": "REGION_06",
-        "type": "province"
-    },
-    {
-      "id": "DIV_007",
-    "name": {
-      "ar": "خريبكة",
-      "en": "Khouribga",
-      "es": "Khouribga",
-      "fr": "Khouribga"
-      },
-      "region_id": "REGION_05",
-      "type": "province"
-    },
-    {
-      "id": "DIV_008",
-      "name": {
-        "ar": "بني ملال",
-        "en": "Béni Mellal",
-        "es": "Beni Melal",
-        "fr": "Béni Mellal"
-      },
-      "region_id": "REGION_05",
-      "type": "province"
-    },
-    {
-      "id": "DIV_009",
-      "name": {
-        "ar": "خنيفرة",
-        "en": "Khénifra",
-        "es": "Jenifra",
-        "fr": "Khénifra"
-      },
-      "region_id": "REGION_05",
-      "type": "province"
-    },
-    {
-      "id": "DIV_010",
-      "name": {
-        "ar": "الفقيه بنصالح",
-        "en": "Fquih Ben Salah",
-        "es": "Fquih Ben Salah",
-        "fr": "Fquih Ben Salah"
-      },
-      "region_id": "REGION_05",
-      "type": "province"
-    },
-    {
-        "id": "DIV_011",
-        "name": {
-            "ar": "أزيلال",
-            "en": "Azilal",
-            "es": "Azilal",
-            "fr": "Azilal"
+        {
+            "id": "DIV_002",
+            "name": {
+                "ar": "الحوز",
+                "en": "Al Haouz",
+                "es": "Al Haouz",
+                "fr": "Al Haouz"
+            },
+            "region_id": "REGION_08",
+            "type": "province"
         },
-        "region_id": "REGION_05",
-        "type": "province"
-    },
-    {
-      "id": "DIV_013",
-      "name": {
-        "ar": "مراكش",
-        "en": "Marrakech",
-        "es": "Marrakech",
-        "fr": "Marrakech"
-      },
-      "region_id": "REGION_07",
-      "type": "prefecture"
-    },
-    {
-      "id": "DIV_014",
-      "name": {
-        "ar": "شيشاوة",
-        "en": "Chichaoua",
-        "es": "Chichaoua",
-        "fr": "Chichaoua"
-      },
-      "region_id": "REGION_07",
-      "type": "province"
-    },
-    {
-      "id": "DIV_015",
-      "name": {
-        "ar": "الحوز",
-        "en": "Al Haouz",
-        "es": "Al Haouz",
-        "fr": "Al Haouz"
-      },
-      "region_id": "REGION_07",
-      "type": "province"
-    },
-    {
-      "id": "DIV_016",
-      "name": {
-        "ar": "قلعة السراغنة",
-        "en": "El Kelaa des Sraghna",
-        "es": "El Kelaa des Sraghna",
-        "fr": "El Kelâa des Sraghna"
-      },
-      "region_id": "REGION_07",
-      "type": "province"
-    },
-    {
-      "id": "DIV_017",
-      "name": {
-        "ar": "الصويرة",
-        "en": "Essaouira",
-        "es": "Essaouira",
-        "fr": "Essaouira"
-      },
-      "region_id": "REGION_07",
-      "type": "province"
-    },
-    {
-      "id": "DIV_018",
-      "name": {
-        "ar": "الرحامنة",
-        "en": "Rehamna",
-        "es": "Rehamna",
-        "fr": "Rehamna"
-      },
-      "region_id": "REGION_07",
-      "type": "province"
-    },
-    {
-      "id": "DIV_019",
-      "name": {
-        "ar": "آسفي",
-        "en": "Safi",
-        "es": "Safi",
-        "fr": "Safi"
-      },
-      "region_id": "REGION_07",
-      "type": "province"
-    },
-    {
-      "id": "DIV_020",
-      "name": {
-        "ar": "اليوسفية",
-        "en": "Youssoufia",
-        "es": "Youssoufia",
-        "fr": "Youssoufia"
-      },
-      "region_id": "REGION_07",
-      "type": "province"
-    },
-    {
-      "id": "DIV_022",
-      "name": {
-        "ar": "أكادير إداوتنان",
-        "en": "Agadir Ida-Outanane",
-        "es": "Agadir Ida-Outanane",
-        "fr": "Agadir Ida-Outanane"
-      },
-      "region_id": "REGION_09", 
-      "type": "prefecture"
-    },
-    {
-      "id": "DIV_023",
-      "name": {
-        "ar": "إنزكان آيت ملول",
-        "en": "Inezgane-Aït Melloul",
-        "es": "Inezgane-Aït Melloul",
-        "fr": "Inezgane-Aït Melloul"
-      },
-      "region_id": "REGION_09",
-      "type": "prefecture"
-    },
-    {
-      "id": "DIV_024",
-      "name": {
-        "ar": "اشتوكة آيت باها",
-        "en": "Chtouka Ait Baha",
-        "es": "Chtouka Ait Baha",
-        "fr": "Chtouka Ait Baha"
-      },
-      "region_id": "REGION_09",
-      "type": "province"
-    },
-    {
-      "id": "DIV_025",
-      "name": { 
-        "ar": "تزنيت",
-        "en": "Tiznit",
-        "es": "Tiznit",
-        "fr": "Tiznit"
-      },
-      "region_id": "REGION_09",
-      "type": "province"
-    },
-    {
-      "id": "DIV_026",
-      "name": {
-        "ar": "تارودانت",
-        "en": "Taroudannt",
-        "es": "Taroudannt",
-        "fr": "Taroudannt"
-      },
-      "region_id": "REGION_09",
-      "type": "province"
-    },
-    {
-      "id": "DIV_027",
-      "name": {
-        "ar": "طاطا",
-        "en": "Tata",
-        "es": "Tata",
-        "fr": "Tata"
-      },
-      "region_id": "REGION_09",
-      "type": "province"
-    },
-    {
-      "id": "DIV_030",
-      "name": {
-        "ar": "كلميم",
-        "en": "Guelmim",
-        "es": "Guelmim", 
-        "fr": "Guelmim"
-      },
-      "region_id": "REGION_10",
-      "type": "province"
-    },
-    {
-      "id": "DIV_031", 
-      "name": {
-        "ar": "طانطان",
-        "en": "Tan-Tan",
-        "es": "Tan-Tan",
-        "fr": "Tan-Tan"
-      },
-      "region_id": "REGION_10",
-      "type": "province"
-    },
-    {
-      "id": "DIV_032",
-      "name": {
-        "ar": "أسا الزاك",
-        "en": "Assa-Zag",
-        "es": "Assa-Zag",
-        "fr": "Assa-Zag"
-      },
-      "region_id": "REGION_10", 
-      "type": "province"
-    },
-    {
-      "id": "DIV_033",
-      "name": {
-        "ar": "سيدي إفني",
-        "en": "Sidi Ifni",
-        "es": "Sidi Ifni",
-        "fr": "Sidi Ifni"
-      },
-      "region_id": "REGION_10",
-      "type": "province"
-    },
-    {
-      "id": "DIV_034",
-      "name": {
-        "ar": "العيون",
-        "en": "Laayoune",
-        "es": "El Aaiún", 
-        "fr": "Laâyoune"
-      },
-      "region_id": "REGION_11",
-      "type": "province"
-    },
-    {
-      "id": "DIV_035", 
-      "name": {
-        "ar": "بوجدور",
-        "en": "Boujdour",
-        "es": "Bojador",
-        "fr": "Boujdour"
-      },
-      "region_id": "REGION_11",
-      "type": "province"
-    },
-    {
-      "id": "DIV_036",
-      "name": {
-        "ar": "طرفاية",
-        "en": "Tarfaya",
-        "es": "Tarfaya",
-        "fr": "Tarfaya"
-      },
-      "region_id": "REGION_11", 
-      "type": "province"
-    },
-    {
-      "id": "DIV_037",
-      "name": {
-        "ar": "السمارة",
-        "en": "Es-Semara",
-        "es": "Esmara",
-        "fr": "Es-Semara"
-      },
-      "region_id": "REGION_11",
-      "type": "province"
-    },
-    {
-      "id": "DIV_037",
-      "name": {
-        "ar": "واد الذهب",
-        "en": "Oued Ed-Dahab",
-        "es": "Río de Oro",
-        "fr": "Oued Ed-Dahab"
-      },
-      "region_id": "REGION_12",
-      "type": "province"
-    },
-    {
-      "id": "DIV_038", 
-      "name": {
-        "ar": "أوسرد",
-        "en": "Aousserd",
-        "es": "Auserd",
-        "fr": "Aousserd"
-      },
-      "region_id": "REGION_12",
-      "type": "province"
-    },
-    {
-      "id": "DIV_039",
-      "name": {
-        "ar": "طنجة أصيلة",
-        "en": "Tanger-Asilah",
-        "es": "Tánger-Asilah", 
-        "fr": "Tanger-Asilah"
-      },
-      "region_id": "REGION_01",
-      "type": "prefecture"
-    },
-    {
-      "id": "DIV_040",
-      "name": {
-        "ar": "المضيق الفنيدق",
-        "en": "M'diq-Fnideq",
-        "es": "M'diq-Fnideq",
-        "fr": "M'diq-Fnideq"
-      },
-      "region_id": "REGION_01", 
-      "type": "prefecture"
-    },
-    {
-      "id": "DIV_041",
-      "name": {
-        "ar": "الفحص أنجرة",
-        "en": "Fahs-Anjra",
-        "es": "Fahs-Anjra",
-        "fr": "Fahs-Anjra"
-      },
-      "region_id": "REGION_01",
-      "type": "province"
-    },
-    {
-      "id": "DIV_042",
-      "name": {
-        "ar": "وزان",
-        "en": "Ouezzane",
-        "es": "Ouezzane",
-        "fr": "Ouezzane"
-      },
-      "region_id": "REGION_01",
-      "type": "province"
-    },
-    {
-      "id": "DIV_041",
-      "name": { "ar": "فاس", "en": "Fès", "es": "Fez", "fr": "Fès" },
-      "region_id": "REGION_03",
-      "type": "prefecture"
-    },
-    {
-      "id": "DIV_042",
-      "name": {
-        "ar": "مكناس",
-        "en": "Meknes",
-        "es": "Mequinez", 
-        "fr": "Meknès"
-      },
-      "region_id": "REGION_03",
-      "type": "prefecture"
-    },
-    {
-      "id": "DIV_043",
-      "name": {
-        "ar": "إفران",
-        "en": "Ifrane",
-        "es": "Ifrane",
-        "fr": "Ifrane"
-      },
-      "region_id": "REGION_03", 
-      "type": "province"
-    },
-    {
-      "id": "DIV_044",
-      "name": {
-        "ar": "تازة",
-        "en": "Taza",
-        "es": "Taza",
-        "fr": "Taza"
-      },
-      "region_id": "REGION_03",
-      "type": "province"
-    },
-    {
-      "id": "DIV_045",
-      "name": { 
-        "ar": "صفرو",
-        "en": "Sefrou",
-        "es": "Sefrou",
-        "fr": "Sefrou"
-      },
-      "region_id": "REGION_03",
-      "type": "province"
-    },
-    {
-      "id": "DIV_046", 
-      "name": {
-        "ar": "تاونات",
-        "en": "Taounate",
-        "es": "Taounate",
-        "fr": "Taounate"
-      },
-      "region_id": "REGION_03",
-      "type": "province"
-    },
-    {
-      "id": "DIV_047",
-      "name": {
-        "ar": "الحاجب",
-        "en": "El Hajeb",
-        "es": "El Hajeb", 
-        "fr": "El Hajeb"
-      },
-      "region_id": "REGION_03",
-      "type": "province"
-    },
-    {
-      "id": "DIV_048",
-      "name": {
-        "ar": "بولمان",
-        "en": "Boulemane",
-        "es": "Boulemane",
-        "fr": "Boulemane" 
-      },
-      "region_id": "REGION_03",
-      "type": "province"
-    },
-    {
-      "id": "DIV_049",
-      "name": {
-        "ar": "مولاي يعقوب",
-        "en": "Moulay Yacoub",
-        "es": "Moulay Yacoub",
-        "fr": "Moulay Yacoub"
-      },
-      "region_id": "REGION_03", 
-      "type": "province"
-    },
-    {
-      "id": "DIV_048",
-      "name": { "ar": "فكيك", "en": "Figuig", "es": "Figuig", "fr": "Figuig" },
-      "region_id": "REGION_02", 
-      "type": "province"
-    },
-    {
-      "id": "DIV_049",
-      "name": { "ar": "الناظور", "en": "Nador", "es": "Nador", "fr": "Nador" },
-      "region_id": "REGION_02",
-      "type": "province"
-    },
-    {
-      "id": "DIV_050",
-      "name": {
-        "ar": "بركان",
-        "en": "Berkane", 
-        "es": "Berkane",
-        "fr": "Berkane"
-      },
-      "region_id": "REGION_02",
-      "type": "province"
-    },
-    {
-      "id": "DIV_051",
-      "name": {
-        "ar": "كرسيف",
-        "en": "Guercif",
-        "es": "Guercif", 
-        "fr": "Guercif"
-      },
-      "region_id": "REGION_02",
-      "type": "province"
-    },
-    {
-      "id": "DIV_052",
-      "name": {
-        "ar": "وجدة أنجاد",
-        "en": "Oujda-Angad",
-        "es": "Oujda-Angad",
-        "fr": "Oujda-Angad"
-      },
-      "region_id": "REGION_02",
-      "type": "prefecture"
-    },
-    {
-      "id": "DIV_053",
-      "name": {
-        "ar": "تاوريرت",
-        "en": "Taourirt",
-        "es": "Taourirt",
-        "fr": "Taourirt"
-      },
-      "region_id": "REGION_02",
-      "type": "province"
-    },
-    {
-      "id": "DIV_054",
-      "name": { "ar": "جرادة", "en": "Jerada", "es": "Jerada", "fr": "Jerada" },
-      "region_id": "REGION_02",
-      "type": "province"
-    },
-    {
-      "id": "DIV_055",
-      "name": {
-        "ar": "الدريوش",
-        "en": "Driouch",
-        "es": "Driouch",
-        "fr": "Driouch"
-      },
-      "region_id": "REGION_02",
-      "type": "province"
-    },
-    {
-      "id": "DIV_060",
-      "name": {
-        "ar": "الرباط",
-        "en": "Rabat",
-        "es": "Rabat",
-        "fr": "Rabat"
-      },
-      "region_id": "REGION_04",
-      "type": "prefecture"
-    },
-    {
-      "id": "DIV_061", 
-      "name": {
-        "ar": "سلا",
-        "en": "Salé",
-        "es": "Salé",
-        "fr": "Salé"
-      },
-      "region_id": "REGION_04",
-      "type": "prefecture"
-    },
-    {
-      "id": "DIV_062",
-      "name": {
-        "ar": "الصخيرات تمارة",
-        "en": "Skhirate-Témara",
-        "es": "Skhirate-Témara", 
-        "fr": "Skhirate-Témara"
-      },
-      "region_id": "REGION_04",
-      "type": "prefecture"
-    },
-    {
-      "id": "DIV_063",
-      "name": {
-        "ar": "الخميسات",
-        "en": "Khémisset",
-        "es": "Khémisset",
-        "fr": "Khémisset"
-      },
-      "region_id": "REGION_04", 
-      "type": "province"
-    },
-    {
-      "id": "DIV_064",
-      "name": {
-        "ar": "القنيطرة",
-        "en": "Kénitra",
-        "es": "Kénitra",
-        "fr": "Kénitra"
-      },
-      "region_id": "REGION_04",
-      "type": "province"
-    },
-    {
-      "id": "DIV_065",
-      "name": {
-        "ar": "سيدي قاسم",
-        "en": "Sidi-Kacem",
-        "es": "Sidi-Kacem",
-        "fr": "Sidi-Kacem"
-      },
-      "region_id": "REGION_04",
-      "type": "province"
-    },
-    {
-      "id": "DIV_066",
-      "name": {
-        "ar": "سيدي سليمان",
-        "en": "Sidi-Slimane", 
-        "es": "Sidi-Slimane",
-        "fr": "Sidi-Slimane"
-      },
-      "region_id": "REGION_04",
-      "type": "province"
-    }
-  ]
+        {
+            "id": "DIV_003",
+            "name": {
+                "ar": "أوسرد",
+                "en": "Aousserd",
+                "es": "Auserd",
+                "fr": "Aousserd"
+            },
+            "region_id": "REGION_03",
+            "type": "province"
+        },
+        {
+            "id": "DIV_004",
+            "name": {
+                "ar": "أسا الزاك",
+                "en": "Assa-Zag",
+                "es": "Assa-Zag",
+                "fr": "Assa-Zag"
+            },
+            "region_id": "REGION_06",
+            "type": "province"
+        },
+        {
+            "id": "DIV_005",
+            "name": {
+                "ar": "أزيلال",
+                "en": "Azilal",
+                "es": "Azilal",
+                "fr": "Azilal"
+            },
+            "region_id": "REGION_01",
+            "type": "province"
+        },
+        {
+            "id": "DIV_006",
+            "name": {
+                "ar": "بركان",
+                "en": "Berkane",
+                "es": "Berkane",
+                "fr": "Berkane"
+            },
+            "region_id": "REGION_09",
+            "type": "province"
+        },
+        {
+            "id": "DIV_007",
+            "name": {
+                "ar": "برشيد",
+                "en": "Berrechid",
+                "es": "Berrechid",
+                "fr": "Berrechid"
+            },
+            "region_id": "REGION_02",
+            "type": "province"
+        },
+        {
+            "id": "DIV_008",
+            "name": {
+                "ar": "بوجدور",
+                "en": "Boujdour",
+                "es": "Bojador",
+                "fr": "Boujdour"
+            },
+            "region_id": "REGION_07",
+            "type": "province"
+        },
+        {
+            "id": "DIV_009",
+            "name": {
+                "ar": "بولمان",
+                "en": "Boulemane",
+                "es": "Boulemane",
+                "fr": "Boulemane"
+            },
+            "region_id": "REGION_05",
+            "type": "province"
+        },
+        {
+            "id": "DIV_010",
+            "name": {
+                "ar": "بني ملال",
+                "en": "Béni Mellal",
+                "es": "Beni Melal",
+                "fr": "Béni Mellal"
+            },
+            "region_id": "REGION_01",
+            "type": "province"
+        },
+        {
+            "id": "DIV_011",
+            "name": {
+                "ar": "الدار البيضاء",
+                "en": "Casablanca",
+                "es": "Casablanca",
+                "fr": "Casablanca"
+            },
+            "region_id": "REGION_02",
+            "type": "prefecture"
+        },
+        {
+            "id": "DIV_012",
+            "name": {
+                "ar": "شيشاوة",
+                "en": "Chichaoua",
+                "es": "Chichaoua",
+                "fr": "Chichaoua"
+            },
+            "region_id": "REGION_08",
+            "type": "province"
+        },
+        {
+            "id": "DIV_013",
+            "name": {
+                "ar": "اشتوكة آيت باها",
+                "en": "Chtouka Ait Baha",
+                "es": "Chtouka Ait Baha",
+                "fr": "Chtouka Ait Baha"
+            },
+            "region_id": "REGION_11",
+            "type": "province"
+        },
+        {
+            "id": "DIV_014",
+            "name": {
+                "ar": "الدريوش",
+                "en": "Driouch",
+                "es": "Driouch",
+                "fr": "Driouch"
+            },
+            "region_id": "REGION_09",
+            "type": "province"
+        },
+        {
+            "id": "DIV_015",
+            "name": {
+                "ar": "الحاجب",
+                "en": "El Hajeb",
+                "es": "El Hajeb",
+                "fr": "El Hajeb"
+            },
+            "region_id": "REGION_05",
+            "type": "province"
+        },
+        {
+            "id": "DIV_016",
+            "name": {
+                "ar": "الجديدة",
+                "en": "El Jadida",
+                "es": "El Jadida",
+                "fr": "El Jadida"
+            },
+            "region_id": "REGION_02",
+            "type": "province"
+        },
+        {
+            "id": "DIV_017",
+            "name": {
+                "ar": "قلعة السراغنة",
+                "en": "El Kelaa des Sraghna",
+                "es": "El Kelaa des Sraghna",
+                "fr": "El Kelâa des Sraghna"
+            },
+            "region_id": "REGION_08",
+            "type": "province"
+        },
+        {
+            "id": "DIV_018",
+            "name": {
+                "ar": "السمارة",
+                "en": "Es-Semara",
+                "es": "Esmara",
+                "fr": "Es-Semara"
+            },
+            "region_id": "REGION_07",
+            "type": "province"
+        },
+        {
+            "id": "DIV_019",
+            "name": {
+                "ar": "الصويرة",
+                "en": "Essaouira",
+                "es": "Essaouira",
+                "fr": "Essaouira"
+            },
+            "region_id": "REGION_08",
+            "type": "province"
+        },
+        {
+            "id": "DIV_020",
+            "name": {
+                "ar": "الفحص أنجرة",
+                "en": "Fahs-Anjra",
+                "es": "Fahs-Anjra",
+                "fr": "Fahs-Anjra"
+            },
+            "region_id": "REGION_12",
+            "type": "province"
+        },
+        {
+            "id": "DIV_021",
+            "name": {
+                "ar": "فكيك",
+                "en": "Figuig",
+                "es": "Figuig",
+                "fr": "Figuig"
+            },
+            "region_id": "REGION_09",
+            "type": "province"
+        },
+        {
+            "id": "DIV_022",
+            "name": {
+                "ar": "الفقيه بنصالح",
+                "en": "Fquih Ben Salah",
+                "es": "Fquih Ben Salah",
+                "fr": "Fquih Ben Salah"
+            },
+            "region_id": "REGION_01",
+            "type": "province"
+        },
+        {
+            "id": "DIV_023",
+            "name": {
+                "ar": "فاس",
+                "en": "Fès",
+                "es": "Fez",
+                "fr": "Fès"
+            },
+            "region_id": "REGION_05",
+            "type": "prefecture"
+        },
+        {
+            "id": "DIV_024",
+            "name": {
+                "ar": "كلميم",
+                "en": "Guelmim",
+                "es": "Guelmim",
+                "fr": "Guelmim"
+            },
+            "region_id": "REGION_06",
+            "type": "province"
+        },
+        {
+            "id": "DIV_025",
+            "name": {
+                "ar": "كرسيف",
+                "en": "Guercif",
+                "es": "Guercif",
+                "fr": "Guercif"
+            },
+            "region_id": "REGION_09",
+            "type": "province"
+        },
+        {
+            "id": "DIV_026",
+            "name": {
+                "ar": "إفران",
+                "en": "Ifrane",
+                "es": "Ifrane",
+                "fr": "Ifrane"
+            },
+            "region_id": "REGION_05",
+            "type": "province"
+        },
+        {
+            "id": "DIV_027",
+            "name": {
+                "ar": "إنزكان آيت ملول",
+                "en": "Inezgane-Aït Melloul",
+                "es": "Inezgane-Aït Melloul",
+                "fr": "Inezgane-Aït Melloul"
+            },
+            "region_id": "REGION_11",
+            "type": "prefecture"
+        },
+        {
+            "id": "DIV_028",
+            "name": {
+                "ar": "جرادة",
+                "en": "Jerada",
+                "es": "Jerada",
+                "fr": "Jerada"
+            },
+            "region_id": "REGION_09",
+            "type": "province"
+        },
+        {
+            "id": "DIV_029",
+            "name": {
+                "ar": "خريبكة",
+                "en": "Khouribga",
+                "es": "Khouribga",
+                "fr": "Khouribga"
+            },
+            "region_id": "REGION_01",
+            "type": "province"
+        },
+        {
+            "id": "DIV_030",
+            "name": {
+                "ar": "الخميسات",
+                "en": "Khémisset",
+                "es": "Khémisset",
+                "fr": "Khémisset"
+            },
+            "region_id": "REGION_10",
+            "type": "province"
+        },
+        {
+            "id": "DIV_031",
+            "name": {
+                "ar": "خنيفرة",
+                "en": "Khénifra",
+                "es": "Jenifra",
+                "fr": "Khénifra"
+            },
+            "region_id": "REGION_01",
+            "type": "province"
+        },
+        {
+            "id": "DIV_032",
+            "name": {
+                "ar": "القنيطرة",
+                "en": "Kénitra",
+                "es": "Kénitra",
+                "fr": "Kénitra"
+            },
+            "region_id": "REGION_10",
+            "type": "province"
+        },
+        {
+            "id": "DIV_033",
+            "name": {
+                "ar": "العيون",
+                "en": "Laayoune",
+                "es": "El Aaiún",
+                "fr": "Laâyoune"
+            },
+            "region_id": "REGION_07",
+            "type": "province"
+        },
+        {
+            "id": "DIV_034",
+            "name": {
+                "ar": "المضيق الفنيدق",
+                "en": "M'diq-Fnideq",
+                "es": "M'diq-Fnideq",
+                "fr": "M'diq-Fnideq"
+            },
+            "region_id": "REGION_12",
+            "type": "prefecture"
+        },
+        {
+            "id": "DIV_035",
+            "name": {
+                "ar": "مراكش",
+                "en": "Marrakech",
+                "es": "Marrakech",
+                "fr": "Marrakech"
+            },
+            "region_id": "REGION_08",
+            "type": "prefecture"
+        },
+        {
+            "id": "DIV_036",
+            "name": {
+                "ar": "مكناس",
+                "en": "Meknes",
+                "es": "Mequinez",
+                "fr": "Meknès"
+            },
+            "region_id": "REGION_05",
+            "type": "prefecture"
+        },
+        {
+            "id": "DIV_037",
+            "name": {
+                "ar": "المحمدية",
+                "en": "Mohammedia",
+                "es": "Mohammedia",
+                "fr": "Mohammedia"
+            },
+            "region_id": "REGION_02",
+            "type": "prefecture"
+        },
+        {
+            "id": "DIV_038",
+            "name": {
+                "ar": "مولاي يعقوب",
+                "en": "Moulay Yacoub",
+                "es": "Moulay Yacoub",
+                "fr": "Moulay Yacoub"
+            },
+            "region_id": "REGION_05",
+            "type": "province"
+        },
+        {
+            "id": "DIV_039",
+            "name": {
+                "ar": "مديونة",
+                "en": "Médiouna",
+                "es": "Mediouna",
+                "fr": "Médiouna"
+            },
+            "region_id": "REGION_02",
+            "type": "province"
+        },
+        {
+            "id": "DIV_040",
+            "name": {
+                "ar": "الناظور",
+                "en": "Nador",
+                "es": "Nador",
+                "fr": "Nador"
+            },
+            "region_id": "REGION_09",
+            "type": "province"
+        },
+        {
+            "id": "DIV_041",
+            "name": {
+                "ar": "النواصر",
+                "en": "Nouaceur",
+                "es": "Nuacer",
+                "fr": "Nouaceur"
+            },
+            "region_id": "REGION_02",
+            "type": "province"
+        },
+        {
+            "id": "DIV_042",
+            "name": {
+                "ar": "واد الذهب",
+                "en": "Oued Ed-Dahab",
+                "es": "Río de Oro",
+                "fr": "Oued Ed-Dahab"
+            },
+            "region_id": "REGION_03",
+            "type": "province"
+        },
+        {
+            "id": "DIV_043",
+            "name": {
+                "ar": "وزان",
+                "en": "Ouezzane",
+                "es": "Ouezzane",
+                "fr": "Ouezzane"
+            },
+            "region_id": "REGION_12",
+            "type": "province"
+        },
+        {
+            "id": "DIV_044",
+            "name": {
+                "ar": "وجدة أنجاد",
+                "en": "Oujda-Angad",
+                "es": "Oujda-Angad",
+                "fr": "Oujda-Angad"
+            },
+            "region_id": "REGION_09",
+            "type": "prefecture"
+        },
+        {
+            "id": "DIV_045",
+            "name": {
+                "ar": "الرباط",
+                "en": "Rabat",
+                "es": "Rabat",
+                "fr": "Rabat"
+            },
+            "region_id": "REGION_10",
+            "type": "prefecture"
+        },
+        {
+            "id": "DIV_046",
+            "name": {
+                "ar": "الرحامنة",
+                "en": "Rehamna",
+                "es": "Rehamna",
+                "fr": "Rehamna"
+            },
+            "region_id": "REGION_08",
+            "type": "province"
+        },
+        {
+            "id": "DIV_047",
+            "name": {
+                "ar": "آسفي",
+                "en": "Safi",
+                "es": "Safi",
+                "fr": "Safi"
+            },
+            "region_id": "REGION_08",
+            "type": "province"
+        },
+        {
+            "id": "DIV_048",
+            "name": {
+                "ar": "سلا",
+                "en": "Salé",
+                "es": "Salé",
+                "fr": "Salé"
+            },
+            "region_id": "REGION_10",
+            "type": "prefecture"
+        },
+        {
+            "id": "DIV_049",
+            "name": {
+                "ar": "صفرو",
+                "en": "Sefrou",
+                "es": "Sefrou",
+                "fr": "Sefrou"
+            },
+            "region_id": "REGION_05",
+            "type": "province"
+        },
+        {
+            "id": "DIV_050",
+            "name": {
+                "ar": "سيدي بنور",
+                "en": "Sidi Bennour",
+                "es": "Sidi Bennour",
+                "fr": "Sidi Bennour"
+            },
+            "region_id": "REGION_02",
+            "type": "province"
+        },
+        {
+            "id": "DIV_051",
+            "name": {
+                "ar": "سيدي إفني",
+                "en": "Sidi Ifni",
+                "es": "Sidi Ifni",
+                "fr": "Sidi Ifni"
+            },
+            "region_id": "REGION_06",
+            "type": "province"
+        },
+        {
+            "id": "DIV_052",
+            "name": {
+                "ar": "سيدي قاسم",
+                "en": "Sidi-Kacem",
+                "es": "Sidi-Kacem",
+                "fr": "Sidi-Kacem"
+            },
+            "region_id": "REGION_10",
+            "type": "province"
+        },
+        {
+            "id": "DIV_053",
+            "name": {
+                "ar": "سيدي سليمان",
+                "en": "Sidi-Slimane",
+                "es": "Sidi-Slimane",
+                "fr": "Sidi-Slimane"
+            },
+            "region_id": "REGION_10",
+            "type": "province"
+        },
+        {
+            "id": "DIV_054",
+            "name": {
+                "ar": "الصخيرات تمارة",
+                "en": "Skhirate-Témara",
+                "es": "Skhirate-Témara",
+                "fr": "Skhirate-Témara"
+            },
+            "region_id": "REGION_10",
+            "type": "prefecture"
+        },
+        {
+            "id": "DIV_055",
+            "name": {
+                "ar": "طانطان",
+                "en": "Tan-Tan",
+                "es": "Tan-Tan",
+                "fr": "Tan-Tan"
+            },
+            "region_id": "REGION_06",
+            "type": "province"
+        },
+        {
+            "id": "DIV_056",
+            "name": {
+                "ar": "طنجة أصيلة",
+                "en": "Tanger-Asilah",
+                "es": "Tánger-Asilah",
+                "fr": "Tanger-Asilah"
+            },
+            "region_id": "REGION_12",
+            "type": "prefecture"
+        },
+        {
+            "id": "DIV_057",
+            "name": {
+                "ar": "تاونات",
+                "en": "Taounate",
+                "es": "Taounate",
+                "fr": "Taounate"
+            },
+            "region_id": "REGION_05",
+            "type": "province"
+        },
+        {
+            "id": "DIV_058",
+            "name": {
+                "ar": "تاوريرت",
+                "en": "Taourirt",
+                "es": "Taourirt",
+                "fr": "Taourirt"
+            },
+            "region_id": "REGION_09",
+            "type": "province"
+        },
+        {
+            "id": "DIV_059",
+            "name": {
+                "ar": "طرفاية",
+                "en": "Tarfaya",
+                "es": "Tarfaya",
+                "fr": "Tarfaya"
+            },
+            "region_id": "REGION_07",
+            "type": "province"
+        },
+        {
+            "id": "DIV_060",
+            "name": {
+                "ar": "تارودانت",
+                "en": "Taroudannt",
+                "es": "Taroudannt",
+                "fr": "Taroudannt"
+            },
+            "region_id": "REGION_11",
+            "type": "province"
+        },
+        {
+            "id": "DIV_061",
+            "name": {
+                "ar": "طاطا",
+                "en": "Tata",
+                "es": "Tata",
+                "fr": "Tata"
+            },
+            "region_id": "REGION_11",
+            "type": "province"
+        },
+        {
+            "id": "DIV_062",
+            "name": {
+                "ar": "تازة",
+                "en": "Taza",
+                "es": "Taza",
+                "fr": "Taza"
+            },
+            "region_id": "REGION_05",
+            "type": "province"
+        },
+        {
+            "id": "DIV_063",
+            "name": {
+                "ar": "تزنيت",
+                "en": "Tiznit",
+                "es": "Tiznit",
+                "fr": "Tiznit"
+            },
+            "region_id": "REGION_11",
+            "type": "province"
+        },
+        {
+            "id": "DIV_064",
+            "name": {
+                "ar": "اليوسفية",
+                "en": "Youssoufia",
+                "es": "Youssoufia",
+                "fr": "Youssoufia"
+            },
+            "region_id": "REGION_08",
+            "type": "province"
+        }
+    ]
 }

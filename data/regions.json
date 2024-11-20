@@ -1,112 +1,112 @@
 {
-  "regions": [
-    {
-      "id": "REGION_01",
-      "name": {
-        "ar": "طنجة تطوان الحسيمة",
-        "en": "Tanger-Tetouan-Al Hoceima",
-        "es": "Tánger-Tetuán-Al Hoceima",
-        "fr": "Tanger-Tétouan-Al Hoceïma"
-      }
-    },
-    {
-      "id": "REGION_02",
-      "name": {
-        "ar": "الشرق",
-        "en": "Oriental",
-        "es": "Oriental",
-        "fr": "Oriental"
-      }
-    },
-    {
-      "id": "REGION_03",
-      "name": {
-        "ar": "فاس مكناس",
-        "en": "Fès-Meknès",
-        "es": "Fez-Mequínez",
-        "fr": "Fès-Meknès"
-      }
-    },
-    {
-      "id": "REGION_04",
-      "name": {
-        "ar": "الرباط سلا القنيطرة",
-        "en": "Rabat-Salé-Kénitra",
-        "es": "Rabat-Salé-Kenitra",
-        "fr": "Rabat-Salé-Kénitra"
-      }
-    },
-    {
-      "id": "REGION_05",
-      "name": {
-        "ar": "بني ملال خنيفرة",
-        "en": "Béni Mellal-Khénifra",
-        "es": "Beni Melal-Jenifra",
-        "fr": "Béni Mellal-Khénifra"
-      }
-    },
-    {
-      "id": "REGION_06",
-      "name": {
-        "ar": "الدار البيضاء سطات",
-        "en": "Casablanca-Settat",
-        "es": "Casablanca-Settat",
-        "fr": "Casablanca-Settat"
-      }
-    },
-    {
-      "id": "REGION_07",
-      "name": {
-        "ar": "مراكش آسفي",
-        "en": "Marrakech-Safi",
-        "es": "Marrakech-Safí",
-        "fr": "Marrakech-Safi"
-      }
-    },
-    {
-      "id": "REGION_08",
-      "name": {
-        "ar": "درعة تافيلالت",
-        "en": "Drâa-Tafilalet",
-        "es": "Dra-Tafilalet",
-        "fr": "Drâa-Tafilalet"
-      }
-    },
-    {
-      "id": "REGION_09",
-      "name": {
-        "ar": "سوس ماسة",
-        "en": "Souss-Massa",
-        "es": "Sus-Masa",
-        "fr": "Souss-Massa"
-      }
-    },
-    {
-      "id": "REGION_10",
-      "name": {
-        "ar": "كلميم واد نون",
-        "en": "Guelmim-Oued Noun",
-        "es": "Guelmim-Río Nun",
-        "fr": "Guelmim-Oued Noun"
-      }
-    },
-    {
-      "id": "REGION_11",
-      "name": {
-        "ar": "العيون الساقية الحمراء",
-        "en": "Laâyoune-Sakia El Hamra",
-        "es": "El Aaiún-Saguía el Hamra",
-        "fr": "Laâyoune-Sakia El Hamra"
-      }
-    },
-    {
-      "id": "REGION_12",
-      "name": {
-        "ar": "الداخلة وادي الذهب",
-        "en": "Dakhla-Oued Ed-Dahab",
-        "es": "Dajla-Río de Oro",
-        "fr": "Dakhla-Oued Ed-Dahab"
-      }
-    }
-  ]
+    "regions": [
+        {
+            "id": "REGION_01",
+            "name": {
+                "ar": "بني ملال خنيفرة",
+                "en": "Béni Mellal-Khénifra",
+                "es": "Beni Melal-Jenifra",
+                "fr": "Béni Mellal-Khénifra"
+            }
+        },
+        {
+            "id": "REGION_02",
+            "name": {
+                "ar": "الدار البيضاء سطات",
+                "en": "Casablanca-Settat",
+                "es": "Casablanca-Settat",
+                "fr": "Casablanca-Settat"
+            }
+        },
+        {
+            "id": "REGION_03",
+            "name": {
+                "ar": "الداخلة وادي الذهب",
+                "en": "Dakhla-Oued Ed-Dahab",
+                "es": "Dajla-Río de Oro",
+                "fr": "Dakhla-Oued Ed-Dahab"
+            }
+        },
+        {
+            "id": "REGION_04",
+            "name": {
+                "ar": "درعة تافيلالت",
+                "en": "Drâa-Tafilalet",
+                "es": "Dra-Tafilalet",
+                "fr": "Drâa-Tafilalet"
+            }
+        },
+        {
+            "id": "REGION_05",
+            "name": {
+                "ar": "فاس مكناس",
+                "en": "Fès-Meknès",
+                "es": "Fez-Mequínez",
+                "fr": "Fès-Meknès"
+            }
+        },
+        {
+            "id": "REGION_06",
+            "name": {
+                "ar": "كلميم واد نون",
+                "en": "Guelmim-Oued Noun",
+                "es": "Guelmim-Río Nun",
+                "fr": "Guelmim-Oued Noun"
+            }
+        },
+        {
+            "id": "REGION_07",
+            "name": {
+                "ar": "العيون الساقية الحمراء",
+                "en": "Laâyoune-Sakia El Hamra",
+                "es": "El Aaiún-Saguía el Hamra",
+                "fr": "Laâyoune-Sakia El Hamra"
+            }
+        },
+        {
+            "id": "REGION_08",
+            "name": {
+                "ar": "مراكش آسفي",
+                "en": "Marrakech-Safi",
+                "es": "Marrakech-Safí",
+                "fr": "Marrakech-Safi"
+            }
+        },
+        {
+            "id": "REGION_09",
+            "name": {
+                "ar": "الشرق",
+                "en": "Oriental",
+                "es": "Oriental",
+                "fr": "Oriental"
+            }
+        },
+        {
+            "id": "REGION_10",
+            "name": {
+                "ar": "الرباط سلا القنيطرة",
+                "en": "Rabat-Salé-Kénitra",
+                "es": "Rabat-Salé-Kenitra",
+                "fr": "Rabat-Salé-Kénitra"
+            }
+        },
+        {
+            "id": "REGION_11",
+            "name": {
+                "ar": "سوس ماسة",
+                "en": "Souss-Massa",
+                "es": "Sus-Masa",
+                "fr": "Souss-Massa"
+            }
+        },
+        {
+            "id": "REGION_12",
+            "name": {
+                "ar": "طنجة تطوان الحسيمة",
+                "en": "Tanger-Tetouan-Al Hoceima",
+                "es": "Tánger-Tetuán-Al Hoceima",
+                "fr": "Tanger-Tétouan-Al Hoceïma"
+            }
+        }
+    ]
 }

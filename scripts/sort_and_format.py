@@ -47,8 +47,8 @@ def sort_and_update_ids(regions_file, divisions_file, output_regions_file, outpu
 # Input and output file paths
 input_regions_file = './data/regions.json'
 input_divisions_file = './data/region-divisions.json'
-output_regions_file = './data/regions_sorted.json'
-output_divisions_file = './data/region-divisions_sorted.json'
+output_regions_file = './data/regions.json'
+output_divisions_file = './data/region-divisions.json'
 
 # Run the sorting and formatting function
 sort_and_update_ids(input_regions_file, input_divisions_file, output_regions_file, output_divisions_file)
