@@ -76,4 +76,4 @@ The current hierarchy (**Regions → Divisions → Communes → Localities**) is
 
 ## Contact
 
-For questions, suggestions, or issues, feel free to open an [issue](https://github.com/mahdiboughrous/moroccan-administrative-division-data/issues) or contact me at [mahdibough6@gmail.com](mailto:mahdibough6@gmail.com).
+For questions, suggestions, or issues, feel free to open an [issue](https://github.com/mahdiboughrous/moroccan-administrative-division-data/issues) or contact me at [mahdi@boughrous.com](mailto:mahdi@boughrous.com).
